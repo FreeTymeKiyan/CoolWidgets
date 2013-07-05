@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomUis</string>
+    
+    <!-- activity_main -->
+    <string name="tv_statement">FreeTymeKiyan: iOS sucks</string>
+    <!-- activity_radial_menu -->
+    <string name="radial_menu_activity">RadialMenuActivity</string>
+    <string name="menu_item_1">item_1</string>
+    <string name="menu_item_2">item_2</string>
+    <string name="menu_item_3">item_3</string>
+    <string name="menu_item_4">item_4</string>
+    <string name="tv_notice">press the screen to show the menu</string>
+    
+    <string-array name="activity_name_array">
+        <item >Radial Menu</item>
+        <item >More...</item>
+    </string-array>
+    
+    
+</resources>

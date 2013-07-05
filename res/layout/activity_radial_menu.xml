@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_holder"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@android:color/black"
+    >
+    
+    <TextView 
+        android:id="@+id/tv_notice"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_notice"
+        android:textSize="@dimen/tv_notice_text_size"
+        android:textColor="@color/tv_notice_text_color"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center"
+        />
+    
+</FrameLayout>
