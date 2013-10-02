@@ -3,5 +3,5 @@ CoolWidgets
 
 A Collection of Cool Android Widgets
 
-* Radial Menu
-* ...
+1. Radial Menu
+2. ...
